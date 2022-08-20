@@ -2,7 +2,7 @@
 muito bem vindo.
 -  💻 Trabalho com desenvolvimento de páginas Web e aplicações e
 para internet.
-- Segue abaixo as principais tecnologias que usa no desenvolvimento 
+- Segue abaixo as principais tecnologias que uso no desenvolvimento 
 dos projetos:
 
 <div style="display: inline_block"><br>
@@ -17,7 +17,8 @@ dos projetos:
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
- - 
+ - Prezo pela responsabilidade e garantia dos serviços prestados aos meus clientes.
+ Fique a vontade para visitar o meu repositorio
 
 
 
