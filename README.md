@@ -19,7 +19,7 @@ dos projetos:
 </div>
 
  - Prezo pela responsabilidade e garantia dos serviços prestados aos meus clientes.
- - Fique a vontade para navegar e saber mais sobre mim no meu repositorio curriculum vitae.
+ - Fique avontade para navegar e saber mais sobre mim no meu repositorio curriculum vitae.
 
 
 
