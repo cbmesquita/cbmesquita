@@ -2,7 +2,7 @@
 muito bem vindo.
 -  💻 Trabalho com desenvolvimento de páginas Web e aplicações e
 para internet.
-- Segue abaixo as principais linguagens que usa no desenvolvimento 
+- Segue abaixo as principais tecnologias que usa no desenvolvimento 
 dos projetos:
 
 <div style="display: inline_block"><br>
@@ -12,8 +12,9 @@ dos projetos:
   <img align="center" alt="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
-
 </div>
  - 
 
