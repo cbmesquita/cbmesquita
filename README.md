@@ -1,6 +1,6 @@
 -  Eu sou o José Marcelo e estou lisonjeado em receber você seja
 muito bem vindo.
--  💻 Trabalho com desenvolvimento de páginas Web e aplicações e
+-  💻 Trabalho com desenvolvimento de páginas Web e aplicações
 para internet.
 - Segue abaixo as principais tecnologias que uso no desenvolvimento 
 dos projetos:
