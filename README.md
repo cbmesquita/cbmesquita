@@ -18,7 +18,8 @@ dos projetos:
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
  - Prezo pela responsabilidade e garantia dos serviços prestados aos meus clientes.
- Fique a vontade para visitar o meu repositorio
+ - Fique a vontade para navegar e saber mais sobre mim no meu repositorio curriculum vitae.
+
 
 
 
